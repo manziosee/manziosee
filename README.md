@@ -24,7 +24,7 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manziosee&show_icons=true&count_private=true&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manziosee&&theme=highcontrast)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manziosee&theme=github_dark&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :punch: Connect with me  
 <a href="https://twitter.com/ManziOsee" target="_blank">
