@@ -7,6 +7,14 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 - 💬 Ask me about Django, UI/UX, html, css and any Tech related stuff.
 - 📫 How to reach me: oseemanzi3@gmail.com.
 - 😄 Pronouns: His/Him.
+
+### :chart_with_upwards_trend: manzi osee's Github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manziosee&show_icons=true&theme=onedark)
+
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manziosee&&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&theme=onedark)
  Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -16,16 +24,6 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
-
-
-
-### :chart_with_upwards_trend: manzi osee's Github stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manziosee&show_icons=true&theme=onedark)
-
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manziosee&&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&theme=onedark)
 
 ## :punch: Connect with me  
 <a href="https://twitter.com/ManziOsee" target="_blank">
