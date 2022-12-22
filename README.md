@@ -8,8 +8,6 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 - 📫 How to reach me: oseemanzi3@gmail.com.
 - 😄 Pronouns: His/Him.
  Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -27,7 +25,7 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&theme=onedark)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manziosee&theme=onedark&hide_border=True)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manziosee)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :punch: Connect with me  
 <a href="https://twitter.com/ManziOsee" target="_blank">
