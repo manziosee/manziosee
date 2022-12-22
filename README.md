@@ -1,5 +1,4 @@
 - 👋Hi I'm Osee
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="500px" alt="hi">
 I am passionate and experienced software developer over more than 2 years of experience in
 tech industry and currently pursuing Bachelor of Science of information technology in software engineering  from Adventist University of Central Africa . He is eager to take challenges that enhance his personal and professional skills.
 
@@ -15,6 +14,7 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />
 
 
 ### :chart_with_upwards_trend: manzi osee's Github stats
