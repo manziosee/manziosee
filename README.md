@@ -1,4 +1,5 @@
 - 👋Hi I'm Osee
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="500px" alt="hi">
 I am passionate and experienced software developer over more than 2 years of experience in
 tech industry and currently pursuing Bachelor of Science of information technology in software engineering  from Adventist University of Central Africa . He is eager to take challenges that enhance his personal and professional skills.
 
@@ -25,7 +26,7 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&theme=onedark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manziosee)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :punch: Connect with me  
 <a href="https://twitter.com/ManziOsee" target="_blank">
