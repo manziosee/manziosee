@@ -20,11 +20,9 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 
 
 ### :chart_with_upwards_trend: manzi osee's Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manziosee&show_icons=true&count_private=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manziosee&&theme=radical)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manziosee&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manziosee&&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&themet=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :punch: Connect with me  
 <a href="https://twitter.com/ManziOsee" target="_blank">
