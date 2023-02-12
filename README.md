@@ -31,8 +31,6 @@ tech industry and currently pursuing Bachelor of Science of information technolo
  
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=ManziOsee&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManziOsee&theme=black-ice)](https://git.io/streak-stats)
-
 ![github-user-contribution](https://user-images.githubusercontent.com/42932255/216576374-88ecf050-2f95-490f-b05b-30004f264599.svg)
 
 ## :punch: Connect with me  
