@@ -33,9 +33,9 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=EdwardSanglayGarcia&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Edward+Garcia+Github+Stats)](https://github.com/EdwardSanglayGarcia)
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=EdwardSanglayGarcia&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=ManziOsee&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdwardSanglayGarcia&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManziOsee&theme=black-ice)](https://git.io/streak-stats)
 
 ![github-user-contribution](https://user-images.githubusercontent.com/42932255/216576374-88ecf050-2f95-490f-b05b-30004f264599.svg)
 
@@ -49,4 +49,3 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 <a href="https://www.instagram.com/manzi.ose/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-
