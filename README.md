@@ -28,6 +28,16 @@ tech industry and currently pursuing Bachelor of Science of information technolo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&theme=onedark)
  
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEdwardSanglayGarcia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=EdwardSanglayGarcia&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Edward+Garcia+Github+Stats)](https://github.com/EdwardSanglayGarcia)
+
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=EdwardSanglayGarcia&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EdwardSanglayGarcia&theme=black-ice)](https://git.io/streak-stats)
+
+![github-user-contribution](https://user-images.githubusercontent.com/42932255/216576374-88ecf050-2f95-490f-b05b-30004f264599.svg)
 
 ## :punch: Connect with me  
 <a href="https://twitter.com/ManziOsee" target="_blank">
