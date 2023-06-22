@@ -1,5 +1,5 @@
 - 👋Hi I'm Osee
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="500px" alt="hi">
+<img src="hhttps://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="hi">
 I am a passionate and experienced software developer with more than 2 years of experience in
 the tech industry and currently pursuing a Bachelor of Science in information technology in software engineering  from Adventist University of Central Africa. He is eager to take on challenges that enhance his personal and professional skills.
 
