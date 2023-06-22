@@ -1,10 +1,10 @@
 - 👋Hi I'm Osee
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="500px" alt="hi">
-I am passionate and experienced software developer over more than 2 years of experience in
-tech industry and currently pursuing Bachelor of Science of information technology in software engineering  from Adventist University of Central Africa . He is eager to take challenges that enhance his personal and professional skills.
+I am a passionate and experienced software developer with more than 2 years of experience in
+the tech industry and currently pursuing a Bachelor of Science in information technology in software engineering  from Adventist University of Central Africa. He is eager to take on challenges that enhance his personal and professional skills.
 
-- :computer:  I’m currently learning Django Framework, html, css, java language, javascripts, vuejs .
-- 💬 Ask me about Django, UI/UX, html, css and any Tech related stuff.
+- :computer:  I’m currently learning Django Framework, HTML, css, java language, javascripts, and vuejs.
+- 💬 Ask me about Django, UI/UX, HTML, CSS, and any Tech related stuff.
 - 📫 How to reach me: oseemanzi3@gmail.com.
 - 😄 Pronouns: His/Him.
 
