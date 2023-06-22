@@ -26,8 +26,7 @@ the tech industry and currently pursuing a Bachelor of Science in information te
 
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manziosee&&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&theme=onedark)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manziosee&layout=compact&hide=less,scss,css,html&theme=highcontrast&show_icons=true)](https://github.com/shemajolivetgislain/github-readme-stats)
  
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=ManziOsee&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
