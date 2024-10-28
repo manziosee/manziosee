@@ -1,8 +1,8 @@
 - 👋Hi I'm Osee
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  alt="hi">
-**👨‍💻 Experienced Software Developer**
+👨‍💻 Experienced Software Developer**
    
-**📍 Kigali, Rwanda  
+📍 Kigali, Rwanda  
 
 With over 3️⃣ years of experience in the tech industry, I am a dedicated software developer passionate about coding and constantly seeking new challenges that fuel my growth.
 
