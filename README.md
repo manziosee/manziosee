@@ -13,10 +13,18 @@ the tech industry and currently pursuing a Bachelor of Science in information te
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+
 
 <br /> <br />
 
