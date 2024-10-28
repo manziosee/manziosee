@@ -8,21 +8,21 @@ With over 3️⃣ years of experience in the tech industry, I am a dedicated sof
 
 🛠 Technologies I’m Currently Using:
 
-🌐 Django Framework
-🖥️ HTML, CSS
-☕ Java and JavaScript
-🖌️ Vue.js
+.🌐 Django Framework
+.🖥️ HTML, CSS
+.☕ Java and JavaScript
+.🖌️ Vue.js
 💡 Skills & Expertise:
 
 Proficient in Django, UI/UX, HTML, CSS, JavaScript, Java, and other tech-related fields.
 🎯 Hobbies:
 
-🎮 Gaming
-📚 Reading tech articles
-🚴‍♂️ Cycling
-🎨 Exploring UI/UX design trends
-📬 Contact Me: 📧 Email: oseemanzi3@gmail.com
-😄 Pronouns: He/Him
+.🎮 Gaming
+.📚 Reading tech articles
+.🚴‍♂️ Cycling
+.🎨 Exploring UI/UX design trends
+.📬 Contact Me: 📧 Email: oseemanzi3@gmail.com
+.😄 Pronouns: He/Him
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
