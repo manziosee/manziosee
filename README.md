@@ -1,12 +1,28 @@
 - 👋Hi I'm Osee
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  alt="hi">
-I am a passionate and experienced software developer with more than 3 years of experience in
-the tech industry and currently pursuing a Bachelor of Science in information technology in software engineering  from Adventist University of Central Africa. He is eager to take on challenges that enhance his personal and professional skills.
+👨‍💻 Experienced Software Developer
 
-- :computer:  I’m currently learning Django Framework, HTML, css, java language, javascripts, and vuejs.
-- 💬 Ask me about Django, UI/UX, HTML, CSS, javascript, java, and any tech-related stuff.
-- 📫 How to reach me: oseemanzi3@gmail.com.
-- 😄 Pronouns: His/Him.
+📍 Kigali, Rwanda
+
+With over 3️⃣ years of experience in the tech industry, I am a dedicated software developer passionate about coding and constantly seeking new challenges that fuel my growth.
+
+🛠 Technologies I’m Currently Using:
+
+🌐 Django Framework
+🖥️ HTML, CSS
+☕ Java and JavaScript
+🖌️ Vue.js
+💡 Skills & Expertise:
+
+Proficient in Django, UI/UX, HTML, CSS, JavaScript, Java, and other tech-related fields.
+🎯 Hobbies:
+
+🎮 Gaming
+📚 Reading tech articles
+🚴‍♂️ Cycling
+🎨 Exploring UI/UX design trends
+📬 Contact Me: 📧 Email: oseemanzi3@gmail.com
+😄 Pronouns: He/Him
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
