@@ -1,28 +1,31 @@
 - 👋Hi I'm Osee
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  alt="hi">
-👨‍💻 Experienced Software Developer
-
-📍 Kigali, Rwanda
+**👨‍💻 Experienced Software Developer**  
+📍 Kigali, Rwanda  
 
 With over 3️⃣ years of experience in the tech industry, I am a dedicated software developer passionate about coding and constantly seeking new challenges that fuel my growth.
 
-🛠 Technologies I’m Currently Using:
+**🛠 Technologies I’m Currently Using:**  
+- 🌐 Django Framework  
+- 🖥️ HTML, CSS  
+- ☕ Java and JavaScript  
+- 🖌️ Vue.js  
 
-.🌐 Django Framework
-.🖥️ HTML, CSS
-.☕ Java and JavaScript
-.🖌️ Vue.js
-💡 Skills & Expertise:
+**💡 Skills & Expertise:**  
+- Proficient in **Django**, **UI/UX**, **HTML**, **CSS**, **JavaScript**, **Java**, and other tech-related fields.
 
-Proficient in Django, UI/UX, HTML, CSS, JavaScript, Java, and other tech-related fields.
-🎯 Hobbies:
+**🎯 Hobbies:**  
+- 🎮 Gaming  
+- 📚 Reading tech articles  
+- 🚴‍♂️ Cycling  
+- 🎨 Exploring UI/UX design trends  
+- 🏀 Basketball  
+- ⚽ Football  
+- 🎬 Watching anime and movies  
 
-.🎮 Gaming
-.📚 Reading tech articles
-.🚴‍♂️ Cycling
-.🎨 Exploring UI/UX design trends
-.📬 Contact Me: 📧 Email: oseemanzi3@gmail.com
-.😄 Pronouns: He/Him
+**📬 Contact Me:**  
+📧 **Email:** oseemanzi3@gmail.com  
+😄 **Pronouns:** He/Him  
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
