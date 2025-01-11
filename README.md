@@ -5,7 +5,7 @@
 
 📍 Kigali, Rwanda  
 
-With over 3️⃣ years of experience in the tech industry, I am a dedicated software developer passionate about coding and constantly seeking new challenges that fuel my growth.
+With over 2️⃣ years of experience in the tech industry, I am a dedicated software developer passionate about coding and constantly seeking new challenges that fuel my growth.
 
 ---
 
