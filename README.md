@@ -1,6 +1,6 @@
 <!-- Anime Header -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="200"/>
+  <img src="URL_OF_THE_GIF" width="200"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Osee</h1>
