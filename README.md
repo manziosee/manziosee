@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About Me  
-With over **2️⃣ years** of experience in the tech industry, I am a passionate software developer who loves building scalable systems and exploring new technologies.  
+With over **3️⃣ years** of experience in the tech industry, I am a passionate software developer who loves building scalable systems and exploring new technologies.  
 When I'm not coding, you’ll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.  
 
 ---
