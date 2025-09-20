@@ -1,7 +1,6 @@
 <!-- Anime Header -->
 <p align="center">
  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="hi" />
-
 </p>
 
 <h1 align="center">👋 Hi, I'm Osee</h1>
@@ -17,16 +16,16 @@ When I'm not coding, you’ll find me **watching anime**, gaming 🎮, or explor
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,html,css,js,ts,java,nodejs,spring,vue,react,nextjs,postgres,mysql,mongodb,git,docker,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=django,html,css,js,ts,java,nodejs,spring,vue,react,nextjs,angular,golang,supabase,flyio,odoo,postgres,mysql,mongodb,git,docker,linux,postman" />
 </p>
 
 ---
 
 ## ⚡ Skills & Expertise  
-- **Backend Development:** Django, Node.js, Spring Boot  
-- **Frontend Development:** React, Vue.js, Next.js, SASS  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server  
-- **Other:** Docker, Linux, Git, UI/UX  
+- **Backend Development:** Django, Node.js, Spring Boot, Golang, Odoo  
+- **Frontend Development:** React, Vue.js, Next.js, Angular, SASS  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Supabase  
+- **Other:** Docker, Linux, Git, Fly.io, UI/UX  
 
 ---
 
