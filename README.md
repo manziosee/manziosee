@@ -16,7 +16,12 @@ When I'm not coding, you’ll find me **watching anime**, gaming 🎮, or explor
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,html,css,js,ts,java,nodejs,spring,vue,react,nextjs,angular,golang,supabase,flyio,odoo,postgres,mysql,mongodb,git,docker,linux,postman" />
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=django,html,css,js,ts,java,nodejs,spring,vue,react,nextjs,angular,golang,postgres,mysql,mongodb,git,docker,linux,postman" />
+  <!-- Custom logos -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flydotio.svg" alt="Fly.io" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" alt="Odoo" width="40" />
 </p>
 
 ---
