@@ -18,10 +18,12 @@ When I'm not coding, you’ll find me **watching anime**, gaming 🎮, or explor
 <p align="center">
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=django,html,css,js,ts,java,nodejs,spring,vue,react,nextjs,angular,golang,postgres,mysql,mongodb,git,docker,linux,postman" />
-  <!-- Custom colored badges -->
+  
+  <!-- Brand-colored badges -->
+  <br />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Fly.io-000000?style=for-the-badge&logo=flydotio&logoColor=white" alt="Fly.io" />
-  <img src="https://img.shields.io/badge/Odoo-7A7A7A?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/Fly.io-150E26?style=for-the-badge&logo=flydotio&logoColor=8B5CF6" alt="Fly.io" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 </p>
 
 ---
