@@ -62,9 +62,13 @@ When I'm not coding, you’ll find me **watching anime**, gaming 🎮, or explor
 
 ## 📊 GitHub Analytics  
 
+> 💡 **For accurate private contribution data:**  
+> Make sure you have enabled **"Include private contributions on my profile"** in your [GitHub settings](https://github.com/settings/profile).  
+> Language stats are based only on **public repositories** – if you have none, consider making one public to showcase your work.
+
 <p align="center">
-  <!-- Streak Stats (classic) – if it ever fails, replace with: https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&count_private=true -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManziOsee&theme=dracula" alt="GitHub Streak" />
+  <!-- Streak with private contributions (demolab fork) -->
+  <img src="https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
