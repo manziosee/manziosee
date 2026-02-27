@@ -63,8 +63,6 @@ When I'm not coding, you’ll find me **watching anime**, gaming 🎮, or explor
 ## 📊 GitHub Analytics  
 
 > 💡 **For accurate private contribution data:**  
-> Make sure you have enabled **"Include private contributions on my profile"** in your [GitHub settings](https://github.com/settings/profile).  
-> Language stats are based only on **public repositories** – if you have none, consider making one public to showcase your work.
 
 <p align="center">
   <!-- Streak with private contributions (demolab fork) -->
