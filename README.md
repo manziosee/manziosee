@@ -13,6 +13,7 @@ With over **3️⃣ years** of experience in the tech industry, I am a passionat
 When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
 
 - 🏢 Currently at **SIC Rwanda** (Remote)
+- 🌐 **Portfolio:** [portfolio-liard-iota-72.vercel.app](https://portfolio-liard-iota-72.vercel.app/)
 - 📧 **Email:** [manziosee3@gmail.com](mailto:manziosee3@gmail.com)
 - 😄 **Pronouns:** He/Him
 - 🟢 **Open to work:** Yes
@@ -51,6 +52,7 @@ When I'm not coding, you'll find me **watching anime**, gaming 🎮, or explorin
 ---
 
 ## 📬 Contact Me
+- 🌐 **Portfolio:** [portfolio-liard-iota-72.vercel.app](https://portfolio-liard-iota-72.vercel.app/)
 - 📧 **Email:** [manziosee3@gmail.com](mailto:manziosee3@gmail.com)
 - 😄 **Pronouns:** He/Him
 
@@ -144,6 +146,7 @@ When I'm not coding, you'll find me **watching anime**, gaming 🎮, or explorin
   <a href="https://www.linkedin.com/in/manzi-niyongira-os%C3%A9e-2065861bb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/manzi.ose/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:manziosee3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://portfolio-liard-iota-72.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
