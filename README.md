@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 About Me
-With over **3️⃣ years** of experience in the tech industry, I am a passionate software developer who loves building scalable systems and exploring new technologies.
+With over **2️⃣ years** of experience in the tech industry, I am a passionate software developer who loves building scalable systems and exploring new technologies.
 When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
 
 - 🏢 Currently at **SIC Rwanda** (Remote)
@@ -60,11 +60,18 @@ When I'm not coding, you'll find me **watching anime**, gaming 🎮, or explorin
 
 <h2 align="center">🏆 Highlights</h2>
 
-- 💻 **3+ Years** of Full‑Stack Development Experience
-- 🚀 **80 Public Repositories** on GitHub
-- 📦 **2,398 Total Contributions** since June 2021
-- 🔀 **462 Pull Requests** merged across projects
-- 🌍 **Contributed to 35** different repositories
+<p align="center">
+  <img src="https://img.shields.io/badge/2%2B%20Years-Full--Stack%20Dev-6e40c9?style=for-the-badge" alt="Experience" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/ManziOsee?label=Followers&style=for-the-badge&color=1a6fba&labelColor=1a1b27" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManziOsee&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=f97316&labelColor=1a1b27" alt="Public Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ManziOsee?label=Stars%20Earned&style=for-the-badge&color=f5c518&labelColor=1a1b27" alt="Stars" />
+</p>
+
+- 💻 **2+ Years** of Full‑Stack Development Experience
+- 🚀 Public repositories, contributions & PRs tracked live below
 - 🧠 Strong Problem‑Solving & UI/UX Sensibility
 
 ---
@@ -76,37 +83,24 @@ When I'm not coding, you'll find me **watching anime**, gaming 🎮, or explorin
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManziOsee&theme=dracula" width="49%" alt="Stats Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManziOsee&theme=nightowl" width="49%" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManziOsee&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManziOsee&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManziOsee&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManziOsee&theme=tokyonight" width="49%" alt="Profile Details" />
 </p>
 
 ---
 
-## 📈 Real Stats (as of March 2026)
+## 📈 Real Stats (Live)
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManziOsee&theme=dracula" alt="GitHub Stats" />
+</p>
 
-| Metric | Value |
-|:-------|------:|
-| 👥 Followers | **55** |
-| 📁 Public Repos | **80** |
-| ⭐ Stars Earned | **4** |
-| 🔀 Pull Requests | **462** |
-| 🐛 Issues | **3** |
-| 🌍 Contributed To | **35 repos** |
-| 📝 Total Contributions | **2,398** |
-| 🔥 Longest Streak | **11 days** (Sep 7–17, 2025) |
-| ⏰ Peak Coding Hour | **5 PM – 7 PM UTC** |
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ManziOsee?style=for-the-badge&label=%F0%9F%91%A5%20Followers&color=7c3aed&labelColor=1a1b27" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManziOsee&query=%24.public_repos&label=%F0%9F%93%81%20Public%20Repos&style=for-the-badge&color=059669&labelColor=1a1b27" alt="Public Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ManziOsee?style=for-the-badge&label=%E2%AD%90%20Stars&color=d97706&labelColor=1a1b27" alt="Stars" />
 </p>
 
 ---
@@ -114,11 +108,8 @@ When I'm not coding, you'll find me **watching anime**, gaming 🎮, or explorin
 ## 🗣️ Top Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-47%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-29%25-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go--%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Vue.js--%25-41b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/JavaScript--%25-f1e05a?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManziOsee&theme=dracula" width="49%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManziOsee&theme=dracula" width="49%" alt="Most Commit Language" />
 </p>
 
 ---
