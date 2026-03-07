@@ -124,7 +124,7 @@ When I'm not coding, you'll find me **watching anime**, gaming 🎮, or explorin
 | [**procure-to-pay-system**](https://github.com/manziosee/procure-to-pay-system) | React · Django REST · TypeScript | Full procurement platform with approval workflows |
 | [**AI-Powered-SME-Knowledge-Base**](https://github.com/manziosee/AI-Powered-SME-Knowledge-Base) | Python · AI/LLM | AI-driven document management & recommendations |
 | [**WareTrack-Pro**](https://github.com/manziosee/WareTrack-Pro) | TypeScript | Warehouse & inventory tracking system |
-| [**community-support-system**](https://github.com/manziosee/community-support-system) | TypeScript | Community-driven support platform |
+| [**community-support-system**](https://github.com/manziosee/community-support-system) | TypeScript . Java. Springboot | Community-driven support platform |
 | [**DocParse**](https://github.com/manziosee/DocParse) | Python | Document parsing & extraction tool |
 
 </p>
