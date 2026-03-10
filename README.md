@@ -12,7 +12,7 @@
 With over **2️⃣ years** of experience in the tech industry, I am a passionate software developer who loves building scalable systems and exploring new technologies.
 When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
 
-- 🏢 Currently at **SIC Rwanda** (Remote)
+- 🏢 Currently at **SIC Rwanda** (Hybrid)
 - 🌐 **Portfolio:** [portfolio-liard-iota-72.vercel.app](https://portfolio-liard-iota-72.vercel.app/)
 - 📧 **Email:** [manziosee3@gmail.com](mailto:manziosee3@gmail.com)
 - 😄 **Pronouns:** He/Him
