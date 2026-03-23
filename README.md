@@ -32,7 +32,7 @@ When I'm not coding, you'll find me **watching anime**, gaming 🎮, or explorin
 ---
 
 ## ⚡ Skills & Expertise
-- **Backend Development:** Django, Node.js, Spring Boot, Golang, Odoo, ERPNext
+- **Backend Development:** Django, Node.js, Spring Boot, Golang, Odoo, 
 - **Frontend Development:** React, Vue.js, Next.js, Angular, SASS, TypeScript
 - **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Supabase
 - **AI/ML:** Python, LangChain, AI-powered backends, RAG pipelines
