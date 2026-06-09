@@ -13,7 +13,7 @@ With over **2️⃣ years** of experience in the tech industry, I am a passionat
 When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
 
 - 🏢 Currently at **SIC Rwanda** (Hybrid)[
-- 🌐 **Portfolio:** [portfolio-liard-iota-72.vercel.app](](https://osee-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [portfolio-liard-iota-72.vercel.app](](https://osee-portfolio.vercel.app/))
 - 📧 **Email:** [manziosee3@gmail.com](mailto:manziosee3@gmail.com)
 - 😄 **Pronouns:** He/Him
 - 🟢 **Open to work:** Yes
