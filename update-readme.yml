@@ -1,0 +1,139 @@
+name: 🔄 Update Dynamic README Sections
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs every day at midnight UTC
+  push:
+    branches: [main]
+  workflow_dispatch:        # allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch repos & update README
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const username = 'manziosee';
+            const displayName = 'ManziOsee';
+
+            // ── 1. Fetch pinned repos via GraphQL (Featured Projects) ──
+            let pinnedRepos = [];
+            try {
+              const pinnedResult = await github.graphql(`{
+                user(login: "${displayName}") {
+                  pinnedItems(first: 6, types: REPOSITORY) {
+                    nodes {
+                      ... on Repository {
+                        name
+                        description
+                        url
+                        stargazerCount
+                        forkCount
+                        primaryLanguage { name }
+                        languages(first: 5, orderBy: { field: SIZE, direction: DESC }) {
+                          nodes { name }
+                        }
+                      }
+                    }
+                  }
+                }
+              }`);
+              pinnedRepos = pinnedResult.user.pinnedItems.nodes;
+            } catch (e) {
+              console.warn('GraphQL failed, skipping pinned repos:', e.message);
+            }
+
+            // ── 2. Fetch top repos by stars (Popular Repositories) ──
+            const { data: topRepos } = await github.rest.repos.listForUser({
+              username: displayName,
+              sort: 'stars',
+              direction: 'desc',
+              per_page: 6,
+              type: 'public',
+            });
+
+            // ── 3. Build Featured Projects table ──
+            const featuredSource = pinnedRepos.length > 0 ? pinnedRepos : topRepos;
+            const tableRows = featuredSource.map(r => {
+              const name        = r.name;
+              const url         = r.url || r.html_url;
+              const langs       = r.languages?.nodes?.map(l => l.name).join(' · ') || r.language || 'Various';
+              const description = (r.description || 'No description available').replace(/\|/g, '\\|');
+              const starBadge   = `![](https://img.shields.io/github/stars/${username}/${name}?style=flat-square&color=f5c518&labelColor=1a1b27)`;
+              const forkBadge   = `![](https://img.shields.io/github/forks/${username}/${name}?style=flat-square&color=6e40c9&labelColor=1a1b27)`;
+              return `| [**${name}**](${url}) | ${langs} | ${starBadge} | ${forkBadge} | ${description} |`;
+            }).join('\n');
+
+            const projectsContent = `<p align="center">\n\n| Project | Tech Stack | Stars | Forks | Description |\n|:--------|:-----------|:-----:|:-----:|:------------|\n${tableRows}\n\n</p>`;
+
+            // ── 4. Build Popular Repos using shields.io (no external service, always works) ──
+            const langColors = {
+              TypeScript: '3178C6', JavaScript: 'F7DF1E', Python: '3776AB',
+              Java: 'ED8B00', Go: '00ADD8', HTML: 'E34F26', CSS: '1572B6',
+              Vue: '4FC08D', Angular: 'DD0031', React: '61DAFB',
+            };
+            const langLogos = {
+              TypeScript: 'typescript', JavaScript: 'javascript', Python: 'python',
+              Java: 'openjdk', Go: 'go', HTML: 'html5', CSS: 'css3',
+              Vue: 'vuedotjs', Angular: 'angular', React: 'react',
+            };
+
+            function makeLangBadge(lang) {
+              const color = langColors[lang] || '555555';
+              const logo  = langLogos[lang]  || lang.toLowerCase();
+              return `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-${color}?style=flat-square&logo=${logo}&logoColor=white" alt="${lang}" />`;
+            }
+
+            function makeRepoCells(repos) {
+              return repos.map(r => {
+                const lang     = r.language || 'Various';
+                const desc     = (r.description || 'No description available').replace(/&/g, '&amp;').replace(/</g, '&lt;');
+                const langBadge = makeLangBadge(lang);
+                const stars    = `<img src="https://img.shields.io/github/stars/${username}/${r.name}?style=flat-square&color=f5c518&label=Stars" alt="Stars" />`;
+                const forks    = `<img src="https://img.shields.io/github/forks/${username}/${r.name}?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />`;
+                const updated  = `<img src="https://img.shields.io/github/last-commit/${username}/${r.name}?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />`;
+                return `    <td width="50%" align="center" valign="top">\n      <br/>\n      <a href="${r.html_url}"><b>🔷 ${r.name}</b></a><br/>\n      <sub>${desc}</sub>\n      <br/><br/>\n      ${langBadge}\n      <br/><br/>\n      ${stars}\n      ${forks}\n      ${updated}\n      <br/>\n    </td>`;
+              }).join('\n');
+            }
+
+            const rows = [];
+            for (let i = 0; i < topRepos.length; i += 2) {
+              rows.push(`  <tr>\n${makeRepoCells(topRepos.slice(i, i + 2))}\n  </tr>`);
+            }
+            const popularContent = `<table width="100%">\n${rows.join('\n')}\n</table>`;
+
+            // ── 5. Patch README between comment markers ──
+            let readme = fs.readFileSync('README.md', 'utf8');
+
+            readme = readme.replace(
+              /<!-- PROJECTS:START -->[\s\S]*?<!-- PROJECTS:END -->/,
+              `<!-- PROJECTS:START -->\n${projectsContent}\n<!-- PROJECTS:END -->`
+            );
+
+            readme = readme.replace(
+              /<!-- POPULAR-REPOS:START -->[\s\S]*?<!-- POPULAR-REPOS:END -->/,
+              `<!-- POPULAR-REPOS:START -->\n${popularContent}\n<!-- POPULAR-REPOS:END -->`
+            );
+
+            fs.writeFileSync('README.md', readme);
+            console.log(`✅ README updated — ${featuredSource.length} featured, ${topRepos.length} popular`);
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && git diff --staged --quiet || \
+            (git add README.md && \
+             git commit -m "chore: auto-update dynamic sections [skip ci]" && \
+             git push)
