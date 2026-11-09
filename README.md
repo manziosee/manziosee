@@ -1,70 +1,79 @@
-<!-- Anime Header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Anime welcome animation" />
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="420" alt="Anime welcome animation" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Osee</h1>
-<h3 align="center">💻 Anime-loving Full-Stack Developer from Kigali, Rwanda</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=40&duration=2600&pause=900&color=BD93F9&center=true&vCenter=true&width=820&height=70&lines=Hi,+I'm+Osee+%F0%9F%91%8B" alt="Hi, I'm Osee" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=2800&pause=1200&color=8BE9FD&center=true&vCenter=true&width=820&height=44&lines=Full-Stack+Developer+from+Kigali,+Rwanda;Payments+%C2%B7+Logistics+%C2%B7+AI+Backends;Distributed+systems+in+Go+%26+Python;Anime+fan+%C2%B7+Gamer+%C2%B7+UI%2FUX+nerd" alt="Full-Stack Developer from Kigali, Rwanda" />
+</p>
 
 <p align="center">
-  <a href="https://osee-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:manziosee3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/manzi-niyongira-os%C3%A9e-2065861bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ManziOsee" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/manzi.ose/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://osee-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:manziosee3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/manzi-niyongira-os%C3%A9e-2065861bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ManziOsee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/manzi.ose/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2%2B%20Years-Full--Stack%20Dev-6e40c9?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/github/followers/ManziOsee?label=Followers&style=flat-square&color=1a6fba&labelColor=1a1b27" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManziOsee&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=f97316&labelColor=1a1b27" alt="Public Repos" />
+  <img src="https://img.shields.io/github/stars/ManziOsee?label=Stars&style=flat-square&color=f5c518&labelColor=1a1b27" alt="Stars" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-2ea44f?style=flat-square" alt="Open to work" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=About+Me" alt="About Me" height="44" /></h2>
 
-With **2+ years** of experience, I'm a full-stack developer who builds scalable, production-minded systems: payment platforms, logistics software, AI-powered backends and distributed services. When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
+With **2+ years** of experience, I build scalable, production-minded systems: payment platforms, logistics software, AI-powered backends and distributed services. When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
 
-- 🏢 Currently at **SIC Rwanda** (Hybrid)
-- 🌐 **Portfolio:** [osee-portfolio.vercel.app](https://osee-portfolio.vercel.app/)
-- 📧 **Email:** [manziosee3@gmail.com](mailto:manziosee3@gmail.com)
-- 😄 **Pronouns:** He/Him
-- 🟢 **Open to work:** Yes
+| | |
+|:--|:--|
+| 🏢 **Currently** | **SIC Rwanda** (Hybrid) |
+| 🌐 **Portfolio** | [osee-portfolio.vercel.app](https://osee-portfolio.vercel.app/) |
+| 📧 **Email** | [manziosee3@gmail.com](mailto:manziosee3@gmail.com) |
+| 😄 **Pronouns** | He/Him |
+| 🟢 **Open to work** | Yes |
 
 ---
 
-## 🛠️ Tech Stack
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=Tech+Stack" alt="Tech Stack" height="44" /></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,java,go,html,css,react,nextjs,vue,angular,nodejs,spring,postgres,mysql,mongodb,redis,docker,kubernetes,prometheus,linux,git,postman,graphql" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,java,go,html,css&perline=9" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,nodejs,spring,graphql,postman,git&perline=9" alt="Frontend and tooling" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,prometheus,linux&perline=8" alt="Data and infrastructure" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Fly.io-150E26?style=for-the-badge&logo=flydotio&logoColor=8B5CF6" alt="Fly.io" />
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure" />
 </p>
 
 ---
 
-## ⚡ Skills & Expertise
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=Skills+%26+Expertise" alt="Skills & Expertise" height="44" /></h2>
 
-- **Backend Development:** Django, FastAPI, Node.js, Spring Boot, Golang, Odoo
-- **Frontend Development:** React, Vue.js, Next.js, Angular, SASS, TypeScript
-- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Redis, Supabase
-- **AI/ML:** Python, LangChain, RAG pipelines, LLM-powered extraction (Groq), OCR
-- **DevOps & Cloud:** Docker, Kubernetes, Prometheus, Linux, Git, Fly.io, Netlify, Vercel, CI/CD
-- **API Design:** REST, GraphQL, OpenAPI, signed webhooks
-- **Domains:** Fintech & payments, logistics & supply chain, procurement, compliance
+| Area | Tools |
+|:-----|:------|
+| ⚙️ **Backend** | Django, FastAPI, Node.js, Spring Boot, Go, Odoo |
+| 🎨 **Frontend** | React, Vue.js, Next.js, Angular, SASS, TypeScript |
+| 🗄️ **Databases** | PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Redis, Supabase |
+| 🤖 **AI / ML** | Python, LangChain, RAG pipelines, LLM extraction (Groq), OCR |
+| ☁️ **DevOps & Cloud** | Docker, Kubernetes, Prometheus, Linux, Fly.io, Netlify, Vercel, CI/CD |
+| 🔌 **API Design** | REST, GraphQL, OpenAPI, signed webhooks |
+| 🏦 **Domains** | Fintech & payments, logistics & supply chain, procurement, compliance |
 
 ---
 
-## 🚀 Live Projects
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=Live+Projects" alt="Live Projects" height="44" /></h2>
 
 Production-style systems you can open and try right now.
 
@@ -117,61 +126,24 @@ Automatically measures internet speed, detects outages and visualizes network pe
 
 ---
 
-## 🏆 Highlights
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=GitHub+Activity" alt="GitHub Activity" height="44" /></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2%2B%20Years-Full--Stack%20Dev-6e40c9?style=for-the-badge" alt="Experience" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ManziOsee?label=Followers&style=for-the-badge&color=1a6fba&labelColor=1a1b27" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManziOsee&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=f97316&labelColor=1a1b27" alt="Public Repos" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ManziOsee?label=Stars%20Earned&style=for-the-badge&color=f5c518&labelColor=1a1b27" alt="Stars" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&hide_border=true" width="60%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&hide_border=true" width="70%" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manziosee/manziosee/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/manziosee/manziosee/output/github-contribution-grid-snake.svg" width="98%" />
+    <img alt="Contribution graph of ManziOsee" src="https://raw.githubusercontent.com/manziosee/manziosee/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
 ---
 
-## 🗣️ Top Languages
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=Featured+Repositories" alt="Featured Repositories" height="44" /></h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
-
----
-
-## 📦 Featured Repositories
-
-> 🔄 Auto-updated daily by GitHub Actions — reflects your pinned repositories
+> 🔄 Auto-updated daily by GitHub Actions from my pinned repositories
 
 <!-- PROJECTS:START -->
 <p align="center">
@@ -190,9 +162,9 @@ Automatically measures internet speed, detects outages and visualizes network pe
 
 ---
 
-## 📌 Popular Repositories
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=Popular+Repositories" alt="Popular Repositories" height="44" /></h2>
 
-> 🔄 Auto-updated daily — most starred public repos
+> 🔄 Auto-updated daily: my most starred public repos
 
 <!-- POPULAR-REPOS:START -->
 <table width="100%">
@@ -289,38 +261,14 @@ Automatically measures internet speed, detects outages and visualizes network pe
 
 ---
 
-## 🎯 Hobbies & Interests
+<h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=Beyond+the+Code" alt="Beyond the Code" height="44" /></h2>
 
-- 🎮 Gaming
-- 🎨 UI/UX Design Trends
-- 📚 Reading Tech Articles
-- 🎬 **Watching Anime** & Movies
-- 🏀 Basketball | ⚽ Football | 🚴 Cycling
+🎮 Gaming &nbsp;·&nbsp; 🎨 UI/UX trends &nbsp;·&nbsp; 📚 Tech articles &nbsp;·&nbsp; 🎬 **Anime** & movies &nbsp;·&nbsp; 🏀 Basketball &nbsp;·&nbsp; ⚽ Football &nbsp;·&nbsp; 🚴 Cycling
 
-> _"Anime taught me to never give up — same goes for coding!"_ ✨
+> _"Anime taught me to never give up. Same goes for coding!"_ ✨
 
 ---
-
-## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/ManziOsee" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/manzi-niyongira-os%C3%A9e-2065861bb/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/manzi.ose/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:manziosee3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://osee-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1500&color=8BE9FD&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting!;Keep+coding+%26+stay+awesome+like+an+anime+hero" alt="Thanks for visiting!" />
 </p>
-
----
-
-<p align="center">✨ <em>Thanks for visiting! Keep coding & stay awesome like an anime hero!</em> ✨</p>
