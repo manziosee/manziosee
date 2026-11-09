@@ -36,7 +36,6 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
 | 🏢 **Currently** | **SIC Rwanda** (Hybrid) |
 | 🌐 **Portfolio** | [osee-portfolio.vercel.app](https://osee-portfolio.vercel.app/) |
 | 📧 **Email** | [manziosee3@gmail.com](mailto:manziosee3@gmail.com) |
-| 😄 **Pronouns** | He/Him |
 | 🟢 **Open to work** | Yes |
 
 ---
