@@ -138,7 +138,10 @@ Automatically measures internet speed, detects outages and visualizes network pe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManziOsee&theme=dracula&hide_border=true&area=true" width="98%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manziosee/manziosee/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/manziosee/manziosee/output/github-contribution-grid-snake.svg" width="98%" />
+  </picture>
 </p>
 
 ---
