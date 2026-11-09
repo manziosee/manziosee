@@ -233,7 +233,7 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&hide_border=true" width="70%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&hide_border=true&timezone=Africa/Kigali" width="70%" alt="GitHub streak" />
 </p>
 
 <p align="center">
