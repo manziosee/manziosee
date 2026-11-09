@@ -75,58 +75,162 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=Live+Projects" alt="Live Projects" height="44" /></h2>
 
-Production-style systems you can open and try right now.
+<p>Production-style systems you can open and try right now.</p>
 
-### 💳 Fintech & Payments
+<h3 align="left">💳 Fintech &amp; Payments</h3>
 
-#### [AegisPay](https://aegispays.netlify.app/) — Multi-tenant payment operations platform
-One workspace for finance teams to run their money operations: a **double-entry ledger**, collections and refunds, **maker-checker approvals**, bank-statement reconciliation, period close, fraud review, **signed webhooks** and a full audit trail. Supports any **ISO 4217 currency** and connects to any bank or payment provider through bank files and statements.
-`Go` `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Prometheus` `OpenAPI` `Fly.io` `Netlify`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://aegispays.netlify.app/">AegisPay</a></h3>
+      <sub><b>Multi-tenant payment operations platform</b></sub>
+      <br/><br/>
+      One workspace for finance teams to run their money operations: a <b>double-entry ledger</b>, collections and refunds, <b>maker-checker approvals</b>, bank-statement reconciliation, period close, fraud review, <b>signed webhooks</b> and a full audit trail. Supports any <b>ISO 4217 currency</b> and connects to any bank or payment provider through bank files and statements.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+      <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white" alt="Fly.io" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+      <br/><br/>
+      <a href="https://aegispays.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://finsight-api-gateway.fly.dev/docs">FinSight</a></h3>
+      <sub><b>AI-powered financial-intelligence API</b></sub>
+      <br/><br/>
+      Feed it whatever financial data a business has (bank statements, mobile money, invoices, receipts, spreadsheets, POS, payment gateways, ERP exports) in any format and currency. FinSight connects it, understands it, <b>reconciles</b> it, explains it, <b>detects anomalies</b>, predicts trends and acts on the results.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/AI%2FLLM-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI/LLM" />
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+      <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white" alt="Fly.io" />
+      <br/><br/>
+      <a href="https://finsight-api-gateway.fly.dev/docs"><img src="https://img.shields.io/badge/API%20Docs-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="API Docs" /></a>
+    </td>
+  </tr>
+</table>
 
-#### [FinSight](https://finsight-api-gateway.fly.dev/docs) — AI-powered financial-intelligence API
-Feed it whatever financial data a business has (bank statements, mobile money, invoices, receipts, spreadsheets, POS, payment gateways, ERP exports) in any format and currency. FinSight connects it, understands it, **reconciles** it, explains it, **detects anomalies**, predicts trends and acts on the results.
-`Python` `FastAPI` `AI/LLM` `OpenAPI` `Fly.io`
+<h3 align="left">🌐 Distributed Systems</h3>
 
-### 🌐 Distributed Systems
+<table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3>🛰️ <a href="https://atlas-console.netlify.app/">Atlas</a></h3>
+      <sub><b>Edge service discovery with a web console</b></sub>
+      <br/><br/>
+      A distributed service-discovery system written in <b>Go</b>. Nodes find each other through a <b>SWIM-style gossip protocol</b>, with no central database and no leader. When a node dies, the rest of the cluster knows within seconds. The <b>Atlas Console</b> shows which services are ready across every node and lets you operate them from the browser.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Gossip%20%2F%20SWIM-444C56?style=flat-square" alt="Gossip / SWIM" />
+      <img src="https://img.shields.io/badge/Web%20Console-444C56?style=flat-square" alt="Web Console" />
+      <br/><br/>
+      <a href="https://atlas-console.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+  </tr>
+</table>
 
-#### [Atlas](https://atlas-console.netlify.app/) — Edge service discovery with a web console
-A distributed service-discovery system written in **Go**. Nodes find each other through a **SWIM-style gossip protocol**, with no central database and no leader. When a node dies, the rest of the cluster knows within seconds. The **Atlas Console** shows which services are ready across every node and lets you operate them from the browser.
-`Go` `Gossip / SWIM` `Web Console`
+<h3 align="left">🚚 Logistics &amp; Supply Chain</h3>
 
-### 🚚 Logistics & Supply Chain
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ <a href="https://carga-flow.vercel.app/">CargaFlow DMS</a></h3>
+      <sub><b>Document management for transport & logistics</b></sub>
+      <br/><br/>
+      A metadata-driven document management system built for freight operations. Instead of folders, every document belongs to exactly one transport file, identified by a single <b>Shipment Reference</b>, so the right paperwork is always one lookup away.
+      <br/><br/>
+      <a href="https://carga-flow.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 <a href="https://cargaflow-tms.netlify.app/">CargaFlow TMS</a></h3>
+      <sub><b>Multi-country transport management</b></sub>
+      <br/><br/>
+      A Transport Management System for forwarders handling <b>sea, air, road, rail and multimodal</b> shipments across countries. It is integrated with <a href="https://carga-flow.vercel.app/">CargaFlow DMS</a>, so shipment records and their documents stay linked end to end.
+      <br/><br/>
+      <a href="https://cargaflow-tms.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://ware-track-pro.vercel.app/">WareTrack Pro</a></h3>
+      <sub><b>Warehouse & delivery management</b></sub>
+      <br/><br/>
+      An all-in-one solution for managing inventory, tracking deliveries and optimizing logistics operations, built for modern warehouses and distribution centers.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <br/><br/>
+      <a href="https://ware-track-pro.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥖 <a href="https://supply-chain-rescue-platform.netlify.app/">SupplyChain Rescue</a></h3>
+      <sub><b>Surplus-food redistribution</b></sub>
+      <br/><br/>
+      Donors (markets, bakeries, restaurants, farms) publish food that would otherwise be wasted. A <b>coordination engine</b> ranks recipient organizations (food banks, shelters, schools), splits each donation across the best matches and assigns a capable transporter. When food is within <b>six hours of expiry</b>, <b>Rescue Mode</b> allocates it automatically.
+      <br/><br/>
+      <a href="https://supply-chain-rescue-platform.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+  </tr>
+</table>
 
-#### [CargaFlow DMS](https://carga-flow.vercel.app/) — Document management for transport & logistics
-A metadata-driven document management system built for freight operations. Instead of folders, every document belongs to exactly one transport file, identified by a single **Shipment Reference**, so the right paperwork is always one lookup away.
+<h3 align="left">🏢 Business Workflows &amp; AI</h3>
 
-#### [CargaFlow TMS](https://cargaflow-tms.netlify.app/) — Multi-country transport management
-A Transport Management System for forwarders handling **sea, air, road, rail and multimodal** shipments across countries. It is integrated with [CargaFlow DMS](https://carga-flow.vercel.app/), so shipment records and their documents stay linked end to end.
+<table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3>🧾 <a href="https://procure-to-pay-system.vercel.app/">Procure-to-Pay System</a></h3>
+      <sub><b>Procurement with AI document processing</b></sub>
+      <br/><br/>
+      A complete procure-to-pay platform with multi-level approval workflows.
+      <ul>
+        <li>🔐 <b>Secure access:</b> multi-role users (Staff, Approver L1/L2, Finance), JWT auth with httpOnly refresh cookies, RBAC and optional TOTP two-factor auth with any authenticator app</li>
+        <li>📋 <b>Purchase requests:</b> create, track, search, filter and paginate; approvals flow Pending → Approved/Rejected and <b>purchase orders are generated automatically</b></li>
+        <li>🤖 <b>AI document processing:</b> OCR plus PDF/Word/text extraction, with Groq-powered structured extraction and validation of proformas and receipts (vendor, line items and more)</li>
+        <li>🏢 <b>Vendor directory:</b> vendors are captured automatically from extracted proformas, with request count, total spend and recent activity</li>
+        <li>💰 <b>Budget tracking:</b> monthly per-department limits, live spend-vs-budget on the Finance dashboard and automatic alerts when a department goes over</li>
+      </ul>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django REST" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+      <br/><br/>
+      <a href="https://procure-to-pay-system.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+  </tr>
+</table>
 
-#### [WareTrack Pro](https://ware-track-pro.vercel.app/) — Warehouse & delivery management
-An all-in-one solution for managing inventory, tracking deliveries and optimizing logistics operations, built for modern warehouses and distribution centers.
-`TypeScript` `Node.js`
+<h3 align="left">📡 Community Impact</h3>
 
-#### [SupplyChain Rescue](https://supply-chain-rescue-platform.netlify.app/) — Surplus-food redistribution
-Donors (markets, bakeries, restaurants, farms) publish food that would otherwise be wasted. A **coordination engine** ranks recipient organizations (food banks, shelters, schools), splits each donation across the best matches and assigns a capable transporter. When food is within **six hours of expiry**, **Rescue Mode** allocates it automatically.
-
-### 🏢 Business Workflows & AI
-
-#### [Procure-to-Pay System](https://procure-to-pay-system.vercel.app/) — Procurement with AI document processing
-A complete procure-to-pay platform with multi-level approval workflows .
-- 🔐 **Secure access:** multi-role users (Staff, Approver L1/L2, Finance), JWT auth with httpOnly refresh cookies, RBAC and optional TOTP two-factor auth with any authenticator app
-- 📋 **Purchase requests:** create, track, search, filter and paginate; approvals flow Pending → Approved/Rejected and **purchase orders are generated automatically**
-- 🤖 **AI document processing:** OCR plus PDF/Word/text extraction, with Groq-powered structured extraction and validation of proformas and receipts (vendor, line items and more)
-- 🏢 **Vendor directory:** vendors are captured automatically from extracted proformas, with request count, total spend and recent activity
-- 💰 **Budget tracking:** monthly per-department limits, live spend-vs-budget on the Finance dashboard and automatic alerts when a department goes over
-`React` `TypeScript` `Django REST` `PostgreSQL` `Groq`
-
-### 📡 Community Impact
-
-#### [Internet Stability Tracker](https://internet-stability-tracker.vercel.app/) — Real-time network monitoring
-Automatically measures internet speed, detects outages and visualizes network performance across **locations and ISPs**, giving communities transparency into their local network infrastructure.
+<table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3>📡 <a href="https://internet-stability-tracker.vercel.app/">Internet Stability Tracker</a></h3>
+      <sub><b>Real-time network monitoring</b></sub>
+      <br/><br/>
+      Automatically measures internet speed, detects outages and visualizes network performance across <b>locations and ISPs</b>, giving communities transparency into their local network infrastructure.
+      <br/><br/>
+      <a href="https://internet-stability-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-2ea44f?style=for-the-badge&labelColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=GitHub+Activity" alt="GitHub Activity" height="44" /></h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manziosee/manziosee/metrics/github-metrics.svg" width="100%" alt="GitHub metrics: profile stats, 3D contribution calendar, coding habits and languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&hide_border=true" width="70%" alt="GitHub streak" />
