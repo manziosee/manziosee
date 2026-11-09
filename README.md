@@ -28,7 +28,7 @@
 
 ### 🧑‍💻 About Me
 
-With over **2+ years** of experience in the tech industry, I am a passionate full-stack developer who loves building scalable systems and exploring new technologies. When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
+With **2+ years** of experience, I'm a full-stack developer who builds scalable, production-minded systems: payment platforms, logistics software, AI-powered backends and distributed services. When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
 
 - 🏢 Currently at **SIC Rwanda** (Hybrid)
 - 🌐 **Portfolio:** [osee-portfolio.vercel.app](https://osee-portfolio.vercel.app/)
@@ -41,7 +41,7 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,ts,js,java,go,html,css,react,nextjs,vue,angular,nodejs,spring,postgres,mysql,mongodb,redis,docker,linux,git,postman,graphql" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,java,go,html,css,react,nextjs,vue,angular,nodejs,spring,postgres,mysql,mongodb,redis,docker,kubernetes,prometheus,linux,git,postman,graphql" alt="Tech stack icons" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
@@ -54,24 +54,66 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
 
 ## ⚡ Skills & Expertise
 
-- **Backend Development:** Django, Node.js, Spring Boot, Golang, Odoo
+- **Backend Development:** Django, FastAPI, Node.js, Spring Boot, Golang, Odoo
 - **Frontend Development:** React, Vue.js, Next.js, Angular, SASS, TypeScript
-- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Supabase
-- **AI/ML:** Python, LangChain, RAG pipelines, AI-powered backends
-- **DevOps & Cloud:** Docker, Linux, Git, Fly.io, CI/CD
-- **API Design:** GraphQL, REST APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Redis, Supabase
+- **AI/ML:** Python, LangChain, RAG pipelines, LLM-powered extraction (Groq), OCR
+- **DevOps & Cloud:** Docker, Kubernetes, Prometheus, Linux, Git, Fly.io, Netlify, Vercel, CI/CD
+- **API Design:** REST, GraphQL, OpenAPI, signed webhooks
+- **Domains:** Fintech & payments, logistics & supply chain, procurement, compliance
 
 ---
 
-## 🎯 Hobbies & Interests
+## 🚀 Live Projects
 
-- 🎮 Gaming
-- 🎨 UI/UX Design Trends
-- 📚 Reading Tech Articles
-- 🎬 **Watching Anime** & Movies
-- 🏀 Basketball | ⚽ Football | 🚴 Cycling
+Production-style systems you can open and try right now.
 
-> _"Anime taught me to never give up — same goes for coding!"_ ✨
+### 💳 Fintech & Payments
+
+#### [AegisPay](https://aegispays.netlify.app/) — Multi-tenant payment operations platform
+One workspace for finance teams to run their money operations: a **double-entry ledger**, collections and refunds, **maker-checker approvals**, bank-statement reconciliation, period close, fraud review, **signed webhooks** and a full audit trail. Supports any **ISO 4217 currency** and connects to any bank or payment provider through bank files and statements.
+`Go` `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Prometheus` `OpenAPI` `Fly.io` `Netlify`
+
+#### [FinSight](https://finsight-api-gateway.fly.dev/docs) — AI-powered financial-intelligence API
+Feed it whatever financial data a business has (bank statements, mobile money, invoices, receipts, spreadsheets, POS, payment gateways, ERP exports) in any format and currency. FinSight connects it, understands it, **reconciles** it, explains it, **detects anomalies**, predicts trends and acts on the results.
+`Python` `FastAPI` `AI/LLM` `OpenAPI` `Fly.io`
+
+### 🌐 Distributed Systems
+
+#### [Atlas](https://atlas-console.netlify.app/) — Edge service discovery with a web console
+A distributed service-discovery system written in **Go**. Nodes find each other through a **SWIM-style gossip protocol**, with no central database and no leader. When a node dies, the rest of the cluster knows within seconds. The **Atlas Console** shows which services are ready across every node and lets you operate them from the browser.
+`Go` `Gossip / SWIM` `Web Console`
+
+### 🚚 Logistics & Supply Chain
+
+#### [CargaFlow DMS](https://carga-flow.vercel.app/) — Document management for transport & logistics
+A metadata-driven document management system built for freight operations. Instead of folders, every document belongs to exactly one transport file, identified by a single **Shipment Reference**, so the right paperwork is always one lookup away.
+
+#### [CargaFlow TMS](https://cargaflow-tms.netlify.app/) — Multi-country transport management
+A Transport Management System for forwarders handling **sea, air, road, rail and multimodal** shipments across countries. It is integrated with [CargaFlow DMS](https://carga-flow.vercel.app/), so shipment records and their documents stay linked end to end.
+
+#### [WareTrack Pro](https://ware-track-pro.vercel.app/) — Warehouse & delivery management
+An all-in-one solution for managing inventory, tracking deliveries and optimizing logistics operations, built for modern warehouses and distribution centers.
+`TypeScript` `Node.js`
+
+#### [SupplyChain Rescue](https://supply-chain-rescue-platform.netlify.app/) — Surplus-food redistribution
+Donors (markets, bakeries, restaurants, farms) publish food that would otherwise be wasted. A **coordination engine** ranks recipient organizations (food banks, shelters, schools), splits each donation across the best matches and assigns a capable transporter. When food is within **six hours of expiry**, **Rescue Mode** allocates it automatically.
+
+### 🏢 Business Workflows & AI
+
+#### [Procure-to-Pay System](https://procure-to-pay-system.vercel.app/) — Procurement with AI document processing
+A complete procure-to-pay platform with multi-level approval workflows and Render PostgreSQL.
+- 🔐 **Secure access:** multi-role users (Staff, Approver L1/L2, Finance), JWT auth with httpOnly refresh cookies, RBAC and optional TOTP two-factor auth with any authenticator app
+- 📋 **Purchase requests:** create, track, search, filter and paginate; approvals flow Pending → Approved/Rejected and **purchase orders are generated automatically**
+- 🤖 **AI document processing:** OCR plus PDF/Word/text extraction, with Groq-powered structured extraction and validation of proformas and receipts (vendor, line items and more)
+- 🏢 **Vendor directory:** vendors are captured automatically from extracted proformas, with request count, total spend and recent activity
+- 💰 **Budget tracking:** monthly per-department limits, live spend-vs-budget on the Finance dashboard and automatic alerts when a department goes over
+`React` `TypeScript` `Django REST` `PostgreSQL` `Groq`
+
+### 📡 Community Impact
+
+#### [Internet Stability Tracker](https://internet-stability-tracker.vercel.app/) — Real-time network monitoring
+Automatically measures internet speed, detects outages and visualizes network performance across **locations and ISPs**, giving communities transparency into their local network infrastructure.
 
 ---
 
@@ -93,14 +135,6 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ManziOsee&theme=dracula&hide_border=true" width="60%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ManziOsee?style=for-the-badge&logo=github&color=6e40c9&labelColor=1a1b27&label=Followers" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FManziOsee&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=f97316&labelColor=1a1b27&logo=github" alt="Public Repos" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ManziOsee?style=for-the-badge&logo=github&color=f5c518&labelColor=1a1b27&label=Stars" alt="Stars" />
 </p>
 
 <p align="center">
@@ -130,10 +164,9 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-
 ---
 
-## 🚀 Featured Projects
+## 📦 Featured Repositories
 
 > 🔄 Auto-updated daily by GitHub Actions — reflects your pinned repositories
 
@@ -143,9 +176,9 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
 | Project | Tech Stack | Stars | Forks | Description |
 |:--------|:-----------|:-----:|:-----:|:------------|
 | [**auditshield**](https://github.com/manziosee/auditshield) | Angular · Django · GraphQL · PostgreSQL | ![](https://img.shields.io/github/stars/manziosee/auditshield?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/auditshield?style=flat-square&color=6e40c9&labelColor=1a1b27) | Multi-tenant SaaS for business compliance |
-| [**procure-to-pay-system**](https://github.com/manziosee/procure-to-pay-system) | React · Django REST · TypeScript | ![](https://img.shields.io/github/stars/manziosee/procure-to-pay-system?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/procure-to-pay-system?style=flat-square&color=6e40c9&labelColor=1a1b27) | Full procurement platform with approval workflows |
+| [**procure-to-pay-system**](https://github.com/manziosee/procure-to-pay-system) | React · Django REST · TypeScript | ![](https://img.shields.io/github/stars/manziosee/procure-to-pay-system?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/procure-to-pay-system?style=flat-square&color=6e40c9&labelColor=1a1b27) | Procurement platform with approval workflows and AI document processing |
 | [**AI-Powered-SME-Knowledge-Base**](https://github.com/manziosee/AI-Powered-SME-Knowledge-Base) | Python · LangChain · AI/LLM | ![](https://img.shields.io/github/stars/manziosee/AI-Powered-SME-Knowledge-Base?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/AI-Powered-SME-Knowledge-Base?style=flat-square&color=6e40c9&labelColor=1a1b27) | AI-driven document management & recommendations |
-| [**WareTrack-Pro**](https://github.com/manziosee/WareTrack-Pro) | TypeScript · Node.js | ![](https://img.shields.io/github/stars/manziosee/WareTrack-Pro?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/WareTrack-Pro?style=flat-square&color=6e40c9&labelColor=1a1b27) | Warehouse & inventory tracking system |
+| [**WareTrack-Pro**](https://github.com/manziosee/WareTrack-Pro) | TypeScript · Node.js | ![](https://img.shields.io/github/stars/manziosee/WareTrack-Pro?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/WareTrack-Pro?style=flat-square&color=6e40c9&labelColor=1a1b27) | Warehouse inventory & delivery tracking |
 | [**community-support-system**](https://github.com/manziosee/community-support-system) | TypeScript · Java · Spring Boot | ![](https://img.shields.io/github/stars/manziosee/community-support-system?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/community-support-system?style=flat-square&color=6e40c9&labelColor=1a1b27) | Community-driven support platform |
 | [**DocParse**](https://github.com/manziosee/DocParse) | Python | ![](https://img.shields.io/github/stars/manziosee/DocParse?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/DocParse?style=flat-square&color=6e40c9&labelColor=1a1b27) | Document parsing & extraction tool |
 
@@ -179,7 +212,7 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/manziosee/procure-to-pay-system"><b>🔷 procure-to-pay-system</b></a><br/>
-      <sub>Full procurement platform with approval workflows</sub>
+      <sub>Procurement platform with approval workflows and AI document processing</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -209,7 +242,7 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/manziosee/WareTrack-Pro"><b>🔷 WareTrack-Pro</b></a><br/>
-      <sub>Warehouse &amp; inventory tracking system</sub>
+      <sub>Warehouse inventory &amp; delivery tracking</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -250,6 +283,18 @@ With over **2+ years** of experience in the tech industry, I am a passionate ful
   </tr>
 </table>
 <!-- POPULAR-REPOS:END -->
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 🎮 Gaming
+- 🎨 UI/UX Design Trends
+- 📚 Reading Tech Articles
+- 🎬 **Watching Anime** & Movies
+- 🏀 Basketball | ⚽ Football | 🚴 Cycling
+
+> _"Anime taught me to never give up — same goes for coding!"_ ✨
 
 ---
 
