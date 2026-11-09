@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=40&duration=2600&pause=900&color=BD93F9&center=true&vCenter=true&width=820&height=70&lines=Hi,+I'm+Osee+%F0%9F%91%8B" alt="Hi, I'm Osee" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=2800&pause=1200&color=8BE9FD&center=true&vCenter=true&width=820&height=44&lines=Full-Stack+Developer+from+Kigali,+Rwanda;Payments+%C2%B7+Logistics+%C2%B7+AI+Backends;Distributed+systems+in+Go+%26+Python;Anime+fan+%C2%B7+Gamer+%C2%B7+UI%2FUX+nerd" alt="Full-Stack Developer from Kigali, Rwanda" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=2800&pause=1200&color=8BE9FD&center=true&vCenter=true&width=820&height=44&lines=Full-Stack+Developer+from+Kigali,+Rwanda;Payments+%C2%B7+Logistics+%C2%B7+AI+Backends;Distributed+systems+in+Go+%26+Python;Anime+fan+%C2%B7+%C2%B7+UI%2FUX+nerd" alt="Full-Stack Developer from Kigali, Rwanda" />
 </p>
 
 <p align="center">
