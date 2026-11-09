@@ -150,12 +150,12 @@ Automatically measures internet speed, detects outages and visualizes network pe
 
 | Project | Tech Stack | Stars | Forks | Description |
 |:--------|:-----------|:-----:|:-----:|:------------|
-| [**auditshield**](https://github.com/manziosee/auditshield) | Angular · Django · GraphQL · PostgreSQL | ![](https://img.shields.io/github/stars/manziosee/auditshield?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/auditshield?style=flat-square&color=6e40c9&labelColor=1a1b27) | Multi-tenant SaaS for business compliance |
-| [**procure-to-pay-system**](https://github.com/manziosee/procure-to-pay-system) | React · Django REST · TypeScript | ![](https://img.shields.io/github/stars/manziosee/procure-to-pay-system?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/procure-to-pay-system?style=flat-square&color=6e40c9&labelColor=1a1b27) | Procurement platform with approval workflows and AI document processing |
-| [**AI-Powered-SME-Knowledge-Base**](https://github.com/manziosee/AI-Powered-SME-Knowledge-Base) | Python · LangChain · AI/LLM | ![](https://img.shields.io/github/stars/manziosee/AI-Powered-SME-Knowledge-Base?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/AI-Powered-SME-Knowledge-Base?style=flat-square&color=6e40c9&labelColor=1a1b27) | AI-driven document management & recommendations |
-| [**WareTrack-Pro**](https://github.com/manziosee/WareTrack-Pro) | TypeScript · Node.js | ![](https://img.shields.io/github/stars/manziosee/WareTrack-Pro?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/WareTrack-Pro?style=flat-square&color=6e40c9&labelColor=1a1b27) | Warehouse inventory & delivery tracking |
-| [**community-support-system**](https://github.com/manziosee/community-support-system) | TypeScript · Java · Spring Boot | ![](https://img.shields.io/github/stars/manziosee/community-support-system?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/community-support-system?style=flat-square&color=6e40c9&labelColor=1a1b27) | Community-driven support platform |
-| [**DocParse**](https://github.com/manziosee/DocParse) | Python | ![](https://img.shields.io/github/stars/manziosee/DocParse?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/DocParse?style=flat-square&color=6e40c9&labelColor=1a1b27) | Document parsing & extraction tool |
+| [**mycadet-temp**](https://api.github.com/repos/manziosee/mycadet-temp) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/mycadet-temp?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/mycadet-temp?style=flat-square&color=6e40c9&labelColor=1a1b27) | Temporary private mirror of vellum-ai/vellum-assistant for the Cadet rebrand |
+| [**atlas**](https://api.github.com/repos/manziosee/atlas) | Go | ![](https://img.shields.io/github/stars/manziosee/atlas?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/atlas?style=flat-square&color=6e40c9&labelColor=1a1b27) | A distributed edge service-discovery system in Go. Nodes find each other through a SWIM-style gossip protocol, without a central database or a leader. When a node dies, the rest of the cluster knows within seconds. |
+| [**drift-company**](https://api.github.com/repos/manziosee/drift-company) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/drift-company?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/drift-company?style=flat-square&color=6e40c9&labelColor=1a1b27) | website for Kuro Slide, a Tokyo drift collective. |
+| [**creative-website**](https://api.github.com/repos/manziosee/creative-website) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/creative-website?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/creative-website?style=flat-square&color=6e40c9&labelColor=1a1b27) | website for  marketing site for an independent creative studio |
+| [**quickinbox**](https://api.github.com/repos/manziosee/quickinbox) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/quickinbox?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/quickinbox?style=flat-square&color=6e40c9&labelColor=1a1b27) | Quickinbox — self-hosted web mail client on Cloudflare Workers. |
+| [**dolibarr**](https://api.github.com/repos/manziosee/dolibarr) | PHP | ![](https://img.shields.io/github/stars/manziosee/dolibarr?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/dolibarr?style=flat-square&color=6e40c9&labelColor=1a1b27) | Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers. |
 
 </p>
 <!-- PROJECTS:END -->
@@ -171,88 +171,78 @@ Automatically measures internet speed, detects outages and visualizes network pe
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/manziosee/auditshield"><b>🔷 auditshield</b></a><br/>
-      <sub>Multi-tenant SaaS for business compliance</sub>
+      <a href="https://github.com/manziosee/mycadet-temp"><b>🔷 mycadet-temp</b></a><br/>
+      <sub>Temporary private mirror of vellum-ai/vellum-assistant for the Cadet rebrand</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/auditshield?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/auditshield?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/auditshield?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <img src="https://img.shields.io/github/stars/manziosee/mycadet-temp?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/mycadet-temp?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/mycadet-temp?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/manziosee/procure-to-pay-system"><b>🔷 procure-to-pay-system</b></a><br/>
-      <sub>Procurement platform with approval workflows and AI document processing</sub>
+      <a href="https://github.com/manziosee/atlas"><b>🔷 atlas</b></a><br/>
+      <sub>A distributed edge service-discovery system in Go. Nodes find each other through a SWIM-style gossip protocol, without a central database or a leader. When a node dies, the rest of the cluster knows within seconds.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/procure-to-pay-system?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/procure-to-pay-system?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/procure-to-pay-system?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <img src="https://img.shields.io/github/stars/manziosee/atlas?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/atlas?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/atlas?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/manziosee/AI-Powered-SME-Knowledge-Base"><b>🔷 AI-Powered-SME-Knowledge-Base</b></a><br/>
-      <sub>AI-driven document management &amp; recommendations</sub>
+      <a href="https://github.com/manziosee/drift-company"><b>🔷 drift-company</b></a><br/>
+      <sub>website for Kuro Slide, a Tokyo drift collective.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI/ML" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/AI-Powered-SME-Knowledge-Base?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/AI-Powered-SME-Knowledge-Base?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/AI-Powered-SME-Knowledge-Base?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <img src="https://img.shields.io/github/stars/manziosee/drift-company?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/drift-company?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/drift-company?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/manziosee/WareTrack-Pro"><b>🔷 WareTrack-Pro</b></a><br/>
-      <sub>Warehouse inventory &amp; delivery tracking</sub>
+      <a href="https://github.com/manziosee/creative-website"><b>🔷 creative-website</b></a><br/>
+      <sub>website for  marketing site for an independent creative studio</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/WareTrack-Pro?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/WareTrack-Pro?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/WareTrack-Pro?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <img src="https://img.shields.io/github/stars/manziosee/creative-website?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/creative-website?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/creative-website?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/manziosee/community-support-system"><b>🔷 community-support-system</b></a><br/>
-      <sub>Community-driven support platform</sub>
+      <a href="https://github.com/manziosee/quickinbox"><b>🔷 quickinbox</b></a><br/>
+      <sub>Quickinbox — self-hosted web mail client on Cloudflare Workers.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/community-support-system?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/community-support-system?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/community-support-system?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <img src="https://img.shields.io/github/stars/manziosee/quickinbox?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/quickinbox?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/quickinbox?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/manziosee/DocParse"><b>🔷 DocParse</b></a><br/>
-      <sub>Document parsing &amp; extraction tool</sub>
+      <a href="https://github.com/manziosee/dolibarr"><b>🔷 dolibarr</b></a><br/>
+      <sub>Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/DocParse?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/DocParse?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/DocParse?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <img src="https://img.shields.io/github/stars/manziosee/dolibarr?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/dolibarr?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/dolibarr?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
   </tr>
