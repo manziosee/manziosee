@@ -29,7 +29,7 @@
 
 <h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=About+Me" alt="About Me" height="44" /></h2>
 
-With **2+ years** of experience, I build scalable, production-minded systems: payment platforms, logistics software, AI-powered backends and distributed services. When I'm not coding, you'll find me **watching anime**, gaming 🎮, or exploring new UI/UX design trends.
+With **2+ years** of experience, I build scalable, production-minded systems: payment platforms, logistics software, AI-powered backends and distributed services. When I'm not coding, you'll find me **watching anime**,or exploring new UI/UX design trends.
 
 | | |
 |:--|:--|
