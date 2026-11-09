@@ -229,7 +229,7 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
 <h2><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=BD93F9&repeat=false&width=700&height=44&lines=GitHub+Activity" alt="GitHub Activity" height="44" /></h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manziosee/manziosee/metrics/github-metrics.svg" width="480" alt="GitHub metrics: profile stats, 3D contribution calendar, coding habits and languages" />
+  <img src="https://raw.githubusercontent.com/manziosee/manziosee/metrics/github-metrics.svg?v=2" width="480" alt="GitHub metrics: profile stats, 3D contribution calendar, coding habits and languages" />
 </p>
 
 <p align="center">
