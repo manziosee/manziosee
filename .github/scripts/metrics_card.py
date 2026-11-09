@@ -162,7 +162,7 @@ stat_block(264, 140, "Repositories", [
 stat_block(504, 140, "Community", [
     (u["organizations"]["totalCount"], "organizations"),
     (u["starredRepositories"]["totalCount"], "repos starred"),
-    (u["watching"]["totalCount"], "repos watched (public)"),
+    (u["watching"]["totalCount"], "watched (public)"),
     (u["followers"]["totalCount"], "followers"),
     (u["following"]["totalCount"], "following"),
 ])
