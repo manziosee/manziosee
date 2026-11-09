@@ -25,22 +25,42 @@ jobs:
           output_action: none
           template: classic
           config_timezone: Africa/Kigali
-          base: header, activity, community, repositories, metadata
+          # Repo count, languages and habits need a personal token (METRICS_TOKEN).
+          # Without it they are switched off instead of showing wrong numbers or an error.
+          base: ${{ secrets.METRICS_TOKEN != '' && 'header, activity, community, repositories' || 'header, activity, community' }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_habits: yes
+          plugin_habits: ${{ secrets.METRICS_TOKEN != '' && 'yes' || 'no' }}
           plugin_habits_from: 200
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_languages: yes
+          plugin_languages: ${{ secrets.METRICS_TOKEN != '' && 'yes' || 'no' }}
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, scss, dockerfile, shell, makefile, procfile
 
-      - name: Collect render
+      - name: Collect render, embed Space Grotesk, drop footer
         run: |
-          mkdir -p dist
-          cp /metrics_renders/github-metrics.svg dist/
+          mkdir -p dist fonts
+          base=https://cdn.jsdelivr.net/npm/@fontsource/space-grotesk@5.0.18/files
+          for w in 400 500 700; do
+            curl -fsSL "$base/space-grotesk-latin-$w-normal.woff2" -o fonts/$w.woff2
+          done
+          python3 - <<'PY'
+          import base64, re
+          svg = open('/metrics_renders/github-metrics.svg', encoding='utf-8').read()
+          faces = ''.join(
+              "@font-face{font-family:'Space Grotesk';font-weight:%s;src:url(data:font/woff2;base64,%s) format('woff2')}"
+              % (w, base64.b64encode(open(f'fonts/{w}.woff2', 'rb').read()).decode())
+              for w in (400, 500, 700))
+          style = ("<style>" + faces +
+                   "svg,svg *{font-family:'Space Grotesk',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif !important}"
+                   "h1,h2,h3{color:#BD93F9 !important;font-weight:700 !important}</style>")
+          svg = re.sub(r'<footer>.*?</footer>', '', svg, flags=re.S)
+          i = svg.rfind('</svg>')
+          svg = svg[:i] + style + svg[i:]
+          open('dist/github-metrics.svg', 'w', encoding='utf-8').write(svg)
+          PY
 
       - name: Push to the metrics branch
         uses: crazy-max/ghaction-github-pages@v4
