@@ -146,23 +146,23 @@ out.append(f'<line x1="24" y1="110" x2="{W-24}" y2="110" stroke="{BORDER}"/>')
 
 # ── Stat columns ─────────────────────────────────────────────────────────────
 stat_block(24, 140, "Activity (all time)", [
-    (commits, "public commits"),
-    (private, "private contributions"),
-    (u["pullRequests"]["totalCount"], "pull requests opened"),
-    (reviews, "pull requests reviewed"),
-    (u["issues"]["totalCount"], "issues opened"),
+    (commits, "commits"),
+    (private, "hidden private contribs"),
+    (u["pullRequests"]["totalCount"], "PRs opened (public)"),
+    (reviews, "PRs reviewed"),
+    (u["issues"]["totalCount"], "issues opened (public)"),
 ])
 stat_block(264, 140, "Repositories", [
     (public_repos, "public repositories"),
     (stars, "stars earned"),
     (forks, "forks of my repos"),
     (u["repositoriesContributedTo"]["totalCount"], "repos contributed to"),
-    (u["issueComments"]["totalCount"], "issue comments"),
+    (u["issueComments"]["totalCount"], "issue comments (public)"),
 ])
 stat_block(504, 140, "Community", [
     (u["organizations"]["totalCount"], "organizations"),
     (u["starredRepositories"]["totalCount"], "repos starred"),
-    (u["watching"]["totalCount"], "repos watched"),
+    (u["watching"]["totalCount"], "repos watched (public)"),
     (u["followers"]["totalCount"], "followers"),
     (u["following"]["totalCount"], "following"),
 ])
