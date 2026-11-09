@@ -102,7 +102,7 @@ Donors (markets, bakeries, restaurants, farms) publish food that would otherwise
 ### 🏢 Business Workflows & AI
 
 #### [Procure-to-Pay System](https://procure-to-pay-system.vercel.app/) — Procurement with AI document processing
-A complete procure-to-pay platform with multi-level approval workflows and Render PostgreSQL.
+A complete procure-to-pay platform with multi-level approval workflows .
 - 🔐 **Secure access:** multi-role users (Staff, Approver L1/L2, Finance), JWT auth with httpOnly refresh cookies, RBAC and optional TOTP two-factor auth with any authenticator app
 - 📋 **Purchase requests:** create, track, search, filter and paginate; approvals flow Pending → Approved/Rejected and **purchase orders are generated automatically**
 - 🤖 **AI document processing:** OCR plus PDF/Word/text extraction, with Groq-powered structured extraction and validation of proformas and receipts (vendor, line items and more)
