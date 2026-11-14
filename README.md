@@ -253,12 +253,12 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
 
 | Project | Tech Stack | Stars | Forks | Description |
 |:--------|:-----------|:-----:|:-----:|:------------|
+| [**AegisPay**](https://api.github.com/repos/manziosee/AegisPay) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/AegisPay?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/AegisPay?style=flat-square&color=6e40c9&labelColor=1a1b27) | AegisPay is a sandbox-first, multi-tenant payment infrastructure project. It provides APIs for organization identity, internal accounts and ledger entries, simulated collections and refunds, fraud review, reconciliation imports, and signed webhooks. |
 | [**mycadet-temp**](https://api.github.com/repos/manziosee/mycadet-temp) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/mycadet-temp?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/mycadet-temp?style=flat-square&color=6e40c9&labelColor=1a1b27) | Temporary private mirror of vellum-ai/vellum-assistant for the Cadet rebrand |
 | [**atlas**](https://api.github.com/repos/manziosee/atlas) | Go | ![](https://img.shields.io/github/stars/manziosee/atlas?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/atlas?style=flat-square&color=6e40c9&labelColor=1a1b27) | A distributed edge service-discovery system in Go. Nodes find each other through a SWIM-style gossip protocol, without a central database or a leader. When a node dies, the rest of the cluster knows within seconds. |
 | [**drift-company**](https://api.github.com/repos/manziosee/drift-company) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/drift-company?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/drift-company?style=flat-square&color=6e40c9&labelColor=1a1b27) | website for Kuro Slide, a Tokyo drift collective. |
 | [**creative-website**](https://api.github.com/repos/manziosee/creative-website) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/creative-website?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/creative-website?style=flat-square&color=6e40c9&labelColor=1a1b27) | website for  marketing site for an independent creative studio |
 | [**quickinbox**](https://api.github.com/repos/manziosee/quickinbox) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/quickinbox?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/quickinbox?style=flat-square&color=6e40c9&labelColor=1a1b27) | Quickinbox — self-hosted web mail client on Cloudflare Workers. |
-| [**dolibarr**](https://api.github.com/repos/manziosee/dolibarr) | PHP | ![](https://img.shields.io/github/stars/manziosee/dolibarr?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/dolibarr?style=flat-square&color=6e40c9&labelColor=1a1b27) | Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers. |
 
 </p>
 <!-- PROJECTS:END -->
@@ -274,6 +274,18 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
+      <a href="https://github.com/manziosee/AegisPay"><b>🔷 AegisPay</b></a><br/>
+      <sub>AegisPay is a sandbox-first, multi-tenant payment infrastructure project. It provides APIs for organization identity, internal accounts and ledger entries, simulated collections and refunds, fraud review, reconciliation imports, and signed webhooks.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/manziosee/AegisPay?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/AegisPay?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/AegisPay?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
       <a href="https://github.com/manziosee/mycadet-temp"><b>🔷 mycadet-temp</b></a><br/>
       <sub>Temporary private mirror of vellum-ai/vellum-assistant for the Cadet rebrand</sub>
       <br/><br/>
@@ -284,6 +296,8 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
       <img src="https://img.shields.io/github/last-commit/manziosee/mycadet-temp?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/manziosee/atlas"><b>🔷 atlas</b></a><br/>
@@ -296,8 +310,6 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
       <img src="https://img.shields.io/github/last-commit/manziosee/atlas?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/manziosee/drift-company"><b>🔷 drift-company</b></a><br/>
@@ -310,6 +322,8 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
       <img src="https://img.shields.io/github/last-commit/manziosee/drift-company?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/manziosee/creative-website"><b>🔷 creative-website</b></a><br/>
@@ -322,8 +336,6 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
       <img src="https://img.shields.io/github/last-commit/manziosee/creative-website?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <br/>
       <a href="https://github.com/manziosee/quickinbox"><b>🔷 quickinbox</b></a><br/>
@@ -334,18 +346,6 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
       <img src="https://img.shields.io/github/stars/manziosee/quickinbox?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
       <img src="https://img.shields.io/github/forks/manziosee/quickinbox?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
       <img src="https://img.shields.io/github/last-commit/manziosee/quickinbox?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
-      <br/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/manziosee/dolibarr"><b>🔷 dolibarr</b></a><br/>
-      <sub>Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/dolibarr?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/dolibarr?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/dolibarr?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
   </tr>
