@@ -258,7 +258,7 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
 | [**drift-company**](https://api.github.com/repos/manziosee/drift-company) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/drift-company?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/drift-company?style=flat-square&color=6e40c9&labelColor=1a1b27) | website for Kuro Slide, a Tokyo drift collective. |
 | [**creative-website**](https://api.github.com/repos/manziosee/creative-website) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/creative-website?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/creative-website?style=flat-square&color=6e40c9&labelColor=1a1b27) | website for  marketing site for an independent creative studio |
 | [**quickinbox**](https://api.github.com/repos/manziosee/quickinbox) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/quickinbox?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/quickinbox?style=flat-square&color=6e40c9&labelColor=1a1b27) | Quickinbox — self-hosted web mail client on Cloudflare Workers. |
-| [**dolibarr**](https://api.github.com/repos/manziosee/dolibarr) | PHP | ![](https://img.shields.io/github/stars/manziosee/dolibarr?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/dolibarr?style=flat-square&color=6e40c9&labelColor=1a1b27) | Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers. |
+| [**FinSight**](https://api.github.com/repos/manziosee/FinSight) | TypeScript | ![](https://img.shields.io/github/stars/manziosee/FinSight?style=flat-square&color=f5c518&labelColor=1a1b27) | ![](https://img.shields.io/github/forks/manziosee/FinSight?style=flat-square&color=6e40c9&labelColor=1a1b27) | FinSight is an AI-powered financial-intelligence API. Give it whatever financial data a business has — bank statements, mobile money, invoices, receipts, spreadsheets, POS, payment gateways, ERP exports, in any format and any currency — and it connects, understands, reconciles, explains, detects anomalies in, predicts, and acts on it. |
 
 </p>
 <!-- PROJECTS:END -->
@@ -338,14 +338,14 @@ With **2+ years** of experience, I build scalable, production-minded systems: pa
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <a href="https://github.com/manziosee/dolibarr"><b>🔷 dolibarr</b></a><br/>
-      <sub>Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.</sub>
+      <a href="https://github.com/manziosee/FinSight"><b>🔷 FinSight</b></a><br/>
+      <sub>FinSight is an AI-powered financial-intelligence API. Give it whatever financial data a business has — bank statements, mobile money, invoices, receipts, spreadsheets, POS, payment gateways, ERP exports, in any format and any currency — and it connects, understands, reconciles, explains, detects anomalies in, predicts, and acts on it.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/manziosee/dolibarr?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/manziosee/dolibarr?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
-      <img src="https://img.shields.io/github/last-commit/manziosee/dolibarr?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
+      <img src="https://img.shields.io/github/stars/manziosee/FinSight?style=flat-square&color=f5c518&label=Stars" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/manziosee/FinSight?style=flat-square&color=6e40c9&label=Forks" alt="Forks" />
+      <img src="https://img.shields.io/github/last-commit/manziosee/FinSight?style=flat-square&color=2ea44f&label=Updated" alt="Last Commit" />
       <br/>
     </td>
   </tr>
